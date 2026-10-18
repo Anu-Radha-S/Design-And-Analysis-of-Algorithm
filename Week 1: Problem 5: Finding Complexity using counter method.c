@@ -1,5 +1,5 @@
-#Problem 5: Finding Complexity using counter method
-#Convert the following algorithm into a program and find its time complexity using counter method.
+//Problem 5: Finding Complexity using counter method
+//Convert the following algorithm into a program and find its time complexity using counter method.
 
 #include <stdio.h>
 
