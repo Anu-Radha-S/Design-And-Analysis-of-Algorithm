@@ -1,5 +1,5 @@
-#Problem 3: Finding Complexity using Counter Method
-#Convert the following algorithm into a program and find its time complexity using counter method.
+//Problem 3: Finding Complexity using Counter Method
+//Convert the following algorithm into a program and find its time complexity using counter method.
 
 #include <stdio.h>
 void Factor(int num) {
